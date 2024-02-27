@@ -2,8 +2,7 @@
 Sales Analysis on Atliq hardware dataset using Power Bi
 
 This is the desktop dashboard:
-![final_dashboard](https://user-images.githubusercontent.com/59522832/216202425-b9b26758-929c-4aa9-aa80-a73e4be052a4.PNG)
+![sales_analytics_desktop](https://github.com/atharvadumbre/Sales_Analysis_atliq/assets/59522832/53bebd81-f27d-4c34-a563-9895f8dc43a8)
 
 Mobile view for the dashboard:
-
-![mobile_view](https://user-images.githubusercontent.com/59522832/216202483-21be2045-5b3e-486d-b372-16503e7ec9ea.PNG)
+![sales_analytics_mobile](https://github.com/atharvadumbre/Sales_Analysis_atliq/assets/59522832/a4215ee3-ee75-4c08-8285-2118d38e74c6)
